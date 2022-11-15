@@ -1,4 +1,27 @@
 <h1>My own Cryptocurrency with python.</h1>
+
+<a href="https://github.com/gab0071/solidity-fundamentals/commits/main" target="_blank">
+<img src="https://img.shields.io/github/commit-activity/m/gab0071/My-Own-Cryptocurrency" alt="Badge showing average commit frequency per month"/>
+  </a>
+
+  <a href="https://github.com/gab0071/solidity-fundamentals/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/gab0071/My-Own-Cryptocurrency" alt="Badge showing when the last commit was made"/>
+  </a>
+
+  <a href="https://github.com/gab0071/solidity-fundamentals/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/gab0071/My-Own-Cryptocurrency" alt="Badge showing the total of project issues"/>
+  </a>
+  
+  <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Flask-1.1.2-blue.svg">
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  </a>
+  
+  <br>
+  
 <p>Programming my own cryptocurrency with python, I wanted to put my theoretical knowledge into practice.</p>
 
 <p>In the end, if you are training in blockchain, the most important thing, once you acquire the basic knowledge, be it in cryptography, be it in theoretical foundations, programming, creation of dapps or video games, in whatever field, it is always good to have awareness of how things are done in this technology.</p>
