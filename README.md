@@ -21,6 +21,7 @@
   </a>
   
   <br>
+  <br>
   
 <p>Programming my own cryptocurrency with python, I wanted to put my theoretical knowledge into practice.</p>
 
